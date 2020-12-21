@@ -1,0 +1,13 @@
+4th Meet
+Mentors: Shruti Masand,Harish Bachu
+Mentees: Tanmay Ranaware,Shalaka Deshpande,Anirrvhinyan K
+
+The Agenda of the meet :
+Updates on each members work
+
+
+Task for Mentees-
+1)Go through resources to employ different parts of project on fpga board
+2)Try employing small codes on fpga board
+
+Next meet is scheduled on December 25, 2020

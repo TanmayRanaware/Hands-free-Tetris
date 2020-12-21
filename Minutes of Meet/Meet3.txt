@@ -1,0 +1,19 @@
+3rd Meet
+Mentors: Shruti Masand,Harish Bachu
+Mentees: Tanmay Ranaware,Shalaka Deshpande,Anirrvhinyan K
+
+ The Agenda of the meet :
+1) to finalise the fpga board 
+              a) Intel or Xilinx
+              b) Altera/Artix 7 vs Cyclone/Zynq
+(Mainly based on which one will facilitate the ML programming part)
+2) Hence, conclude on the software to be used.
+
+3) Finalise the software/open source platform that we shall be using in order to simulate the FPGA - with all the things (ML, OLED/VGA Display and Camera)
+
+
+Task for Mentees-
+-Look which would be more suitable to deploy machine learning code,Artix 7 Vs Zynq 
+-Team divided so that one will work on hardware part,one on machine learning code,one on machine learning code and tetris code 
+
+Next meet is scheduled on December 27, 2020

@@ -1,0 +1,17 @@
+2nd Meet
+Mentors: Shruti Masand,Harish Bachu
+Mentees: Tanmay Ranaware,Shalaka Deshpande,Anirrvhinyan K
+
+ The Agenda of the meet :
+1) Complete 50-100% of the course : Verilog for FPGA Development on LinkedIn.
+2) Doubt solving session for juniors based on the materials sent previously.
+3)Discuss gestures for dataset
+
+
+Task for Mentees-
+-Complete all the materials send till next meet
+-Find the dataset with gestures discussed 
+-Look display board to display Tetris game
+-Look different  FPGA boards to deploy camera module for capturing real time hand gesture detection ,display board to display Tetris game and Machine Learning code to detect hand gestutres captured by camera module  
+
+Next meet is scheduled on October 31, 2020

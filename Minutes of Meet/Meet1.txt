@@ -1,0 +1,19 @@
+1st Meet
+Mentors: Shruti Masand,Harish Bachu
+Mentees: Tanmay Ranaware,Shalaka Deshpande,Anirrvhinyan K
+
+ The Agenda of the meet :
+1) Clarify your doubts, if any, regarding the project.
+
+2) Discuss the Hardware and Software tasks on the Trello board and their respective deadlines.
+
+3) Explain the kind of work each member is supposed to do.
+
+4) Share study materials and resources to proceed with the first sub-tasks of different divisions(hadware,software,tetris code)
+
+Task for Mentees-
+-Finding  dataset required for project on kaggle.If not found making it.
+-Learn CNN and tensorflowfrom Andrew Ng courses
+-Go through the resources sent.
+
+Next meet is scheduled on October 12, 2020

@@ -1,0 +1,53 @@
+4th Meet
+Mentors: Shruti Masand,Harish Bachu
+Mentees: Tanmay Ranaware,Shalaka Deshpande,Anirrvhinyan K
+
+ The Agenda of the meet :
+Main task of each member
+Tanmay - Tetris Code on Verilog,VGA display and working along with Shalaka on machine learning part
+Anirrvhinyan-Integration with FPGA (Including Camera Module, Tetris Code, etc.)
+Shalaka - Gesture detection model on Tensorflow-Keras, and translating it into HDL code via LeFlow
+
+
+
+Task for Mentees-
+1)Tanmay-Start working on the Tetris code... 
+
+Our first step should be, to determine the bigger picture.
+So, try building a rough algorithm (just a more structured way to state with clarity, the steps that need to be involved in getting the result).
+
+Our second step would be, to create an outline of the basic functions that we need and start coding.
+
+Here, a smarter way would be, firstly, searching for an appropriate code we might find online... and seeing if it really fits our purpose...
+
+And then drawing inspiration from that to go about our second step and onwards.
+
+
+2)Shalaka-Download the Virtual Machine for LeFlow. This has a specific version of Tensorflow which is compatible with LeFlow. 
+
+Try convert a simple small tensorflow code into HDL using the tool, this is so that we know we are on the right track. 
+If it works, we can proceed.
+
+Start work on the gesture recognition program on tensorflow. I will send you the dataset by evening. 
+Once the recognition model is ready, save and send the model and weights. I have a makeshift NIR camera we can test on. 
+
+Also, check if LeFlow is able to format the model to HDL.
+
+
+3)Annirvhinyan-start looking at how we can code for interfacing the camera module to our fpga.
+
+Our first step should be, to select the platform on which the camera module that we are going to design is going to work along with our selected fpga or not. (Keep in mind that the platform should also have a Vga display or oled's option.)
+
+(Or select the camera module acc to the platform found)
+
+Second step should be, modifying the code we found acc to the module we selected and our needs ofc using the Xilinx software.
+
+After the code is free of any errors and looks just fine
+
+Third step would be, to try simulating our code on that platform we found in the first step along with the camera.
+
+
+
+
+
+Next meet is scheduled on December 9, 2020
