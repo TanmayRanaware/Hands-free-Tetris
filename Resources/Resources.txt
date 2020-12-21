@@ -1,0 +1,8 @@
+-https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+-https://www.tensorflow.org/tutorials/images/cnn
+-https://towardsdatascience.com/beginners-guide-to-understanding-convolutional-neural-networks-ae9ed58bb17d
+-https://docs.google.com/document/d/1VySHwc2nA2ffRCq2UaM5qre2oqVhFxFgL1b2ea9cWTc/edit#heading=h.pel1286vbx21
+-https://www.linkedin.com/learning/learning-verilog-for-fpga-development
+-https://github.com/danielholanda/LeFlow#:~:text=LeFLow%20is%20an%20open%2Dsource,verilog%20from%20a%20Tensorflow%20specification
+-https://www.legupcomputing.com/docs/legup-7.3-docs/legup-7.3-docs.html
+-https://www.youtube.com/watch?v=y76_RIyq4TM
